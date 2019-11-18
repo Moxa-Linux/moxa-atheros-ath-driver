@@ -1,0 +1,2 @@
+ath/ath10k/ath10k_core.ko /lib/modules/4.9.0-11-amd64/kernel/drivers/net/wireless/ath/ath10k/
+ath/ath10k/ath10k_pci.ko /lib/modules/4.9.0-11-amd64/kernel/drivers/net/wireless/ath/ath10k/
