@@ -1,0 +1,5 @@
+moxa-atheros-ath-driver (4.9.198+1.0.0) stretch; urgency=medium
+
+  * Initial release
+
+ -- Remus Wu <remusty.wu@moxa.com>  Wed, 20 Nov 2019 18:35:45 +0800
