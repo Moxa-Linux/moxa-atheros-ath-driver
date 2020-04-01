@@ -1,3 +1,9 @@
+moxa-atheros-ath-driver (4.9.198+1.1.0) stretch; urgency=medium
+
+  * update dependence to Debian 9.12
+
+ -- Remus Wu <remusty.wu@moxa.com>  Wed, 01 Apr 2020 10:53:29 +0800
+
 moxa-atheros-ath-driver (4.9.198+1.0.0) stretch; urgency=medium
 
   * Initial release
